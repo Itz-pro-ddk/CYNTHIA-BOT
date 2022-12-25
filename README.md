@@ -1,3 +1,6 @@
+<p align="center"><a href="https://t.me/cynthia_ultra_bot"><img src="https://ibb.co/gMKH4kc" width="300"></a></p>
+<p align="center">
+
 # Cynthia Bot @Cynthia_ultra_bot
 
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
