@@ -15,7 +15,6 @@
 ![Repository Size](https://img.shields.io/github/repo-size/Itz-pro-ddk/Cynthia-Bot?style=for-the-badge&logo=appveyor)</br>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> ᴄʏɴᴛʜɪᴀ🔥 </p>
 
