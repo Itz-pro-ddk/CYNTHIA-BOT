@@ -1,23 +1,7 @@
-Skip to content
-HeroX-xD
-/
-TrickyAbhi-Bot
-Public
-forked from noob-kittu/YoneRobot
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-TrickyAbhi-Bot/Yone/Database/global_bans_sql.py
-@noob-kittu
-noob-kittu Updates
- 1 contributor
-174 lines (127 sloc)  4.16 KB
+
 import threading
 
-from Yone.Database import BASE, SESSION
+from Cynthia-Bot.Database import BASE, SESSION
 from sqlalchemy import Boolean, Column, BigInteger, String, UnicodeText
 
 
